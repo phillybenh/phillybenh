@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello! 👋 🧔
+I'm a software engineer who is focusing on building experiance and learning new skills. Formarly a mechanical engineer with 12 years of experiance tackling technical issues.
 
-<!--
-**phillybenh/phillybenh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 🏕️ Working from home
+ - 🇱 [LinkedIn](https://www.linkedin.com/in/benjamin-haus/)
+ - 📜 [Resume](https://resume.creddle.io/resume/e1mlz8ddzlt)
+ - 🦾 Tech Skills:
+ ..- 🖥️ React, Redux, JavaScript, LESS/SASS, HTML, CSS, Apollo Client, Ant Design
+ ..- 💽  Knex, Express, PostgreSQL, SQLite3, SQL, NodeJS
+ ..- 🧪 Supertest, cypress.io, React Testing Library, Jest
+ ..- 🛠️  Linux/Ubuntu, Remote Work, Python3, Git/GitHub Version Control
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

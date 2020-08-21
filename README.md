@@ -1,5 +1,6 @@
-### Hello! 👋 🧔
-I'm a software engineer who is focusing on building experiance and learning new skills. Formarly a mechanical engineer with 12 years of experiance tackling technical issues.
+# Hello! 👋 🧔
+### I'm a software engineer who is focusing on building experiance and learning new skills. 
+Formarly a mechanical engineer with 12 years of experiance tackling technical issues.
 
  - 🏕️ Working from home
  - 🇱 [LinkedIn](https://www.linkedin.com/in/benjamin-haus/)

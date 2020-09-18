@@ -3,8 +3,9 @@
 Formerly a mechanical engineer with 12 years of experience tackling technical issues.
 
  - 🏕️ Working from home
- - 🇱 [LinkedIn](https://www.linkedin.com/in/benjamin-haus/)
+ - 🌐 [Portfolio](https://benhaus.dev/)
  - 📜 [Resume](https://resume.creddle.io/resume/e1mlz8ddzlt)
+ - 🇱 [LinkedIn](https://www.linkedin.com/in/benjamin-haus/)
  - 🦾 Tech Skills:
    - 🖥️ React, Redux, JavaScript, LESS/SASS, HTML, CSS, Apollo Client, Ant Design
    - 💽  Knex, Express, PostgreSQL, SQLite3, SQL, NodeJS

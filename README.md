@@ -3,7 +3,7 @@
 Formerly a mechanical engineer with 12 years of experience tackling technical issues.
 
  - 🏕️ Working from home
- - 🌐 [Portfolio](https://benhaus.dev/)
+ - 🖼️ [Portfolio](https://benhaus.dev/)
  - 📜 [Resume](https://resume.creddle.io/resume/e1mlz8ddzlt)
  - 🇱 [LinkedIn](https://www.linkedin.com/in/benjamin-haus/)
  - 🦾 Tech Skills:

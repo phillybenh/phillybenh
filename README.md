@@ -12,3 +12,4 @@ Formerly a mechanical engineer with 12 years of experience tackling technical is
    - 🧪 Supertest, cypress.io, React Testing Library, Jest
    - 🛠️  Linux/Ubuntu, Remote Work, Python3, Git/GitHub Version Control
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phillybenh&show_icons=true&theme=nightowl)
